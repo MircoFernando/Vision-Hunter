@@ -1,0 +1,30 @@
+# === Core Python Libraries ===
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# === Data Visualization ===
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# === Machine Learning (Supervised + Unsupervised) ===
+scikit-learn==1.5.2
+xgboost==2.1.1
+umap-learn==0.5.6
+
+# === Model Persistence & Utilities ===
+joblib==1.4.2
+
+# === API Framework (for integration) ===
+Flask==3.0.3          # Use if you’re deploying with Flask
+# or
+fastapi==0.115.4      # Use if you prefer FastAPI
+uvicorn==0.31.1       # For running FastAPI app
+
+# === Environment & Configuration ===
+python-dotenv==1.0.1
+
+# === Optional Enhancements ===
+tqdm==4.66.4          # Progress bars during model training
+imbalanced-learn==0.12.3  # If you deal with class imbalance
