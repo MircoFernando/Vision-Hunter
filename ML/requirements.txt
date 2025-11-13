@@ -16,15 +16,15 @@ umap-learn==0.5.6
 # === Model Persistence & Utilities ===
 joblib==1.4.2
 
-# === API Framework (for integration) ===
-Flask==3.0.3          # Use if you’re deploying with Flask
-# or
-fastapi==0.115.4      # Use if you prefer FastAPI
-uvicorn==0.31.1       # For running FastAPI app
+# # === API Framework (for integration) ===
+# Flask==3.0.3          # Use if you’re deploying with Flask
+# # or
+# fastapi==0.115.4      # Use if you prefer FastAPI
+# uvicorn==0.31.1       # For running FastAPI app
 
-# === Environment & Configuration ===
-python-dotenv==1.0.1
+# # === Environment & Configuration ===
+# python-dotenv==1.0.1
 
-# === Optional Enhancements ===
-tqdm==4.66.4          # Progress bars during model training
-imbalanced-learn==0.12.3  # If you deal with class imbalance
+# # === Optional Enhancements ===
+# tqdm==4.66.4          # Progress bars during model training
+# imbalanced-learn==0.12.3  # If you deal with class imbalance
