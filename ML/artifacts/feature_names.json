@@ -2,9 +2,16 @@
   "Views",
   "Likes",
   "Shares",
+  "Comments",
   "share_rate",
+  "comment_rate",
   "likes_per_share",
+  "likes_per_comment",
+  "comment_to_like_ratio",
   "share_to_like_ratio",
+  "virality_score",
+  "engagement_density",
+  "total_interactions",
   "Platform_Instagram",
   "Platform_TikTok",
   "Platform_Twitter",
@@ -32,5 +39,6 @@
   "Content_Type_Reel",
   "Content_Type_Shorts",
   "Content_Type_Tweet",
-  "Content_Type_Video"
+  "Content_Type_Video",
+  "Engagement_Level"
 ]
