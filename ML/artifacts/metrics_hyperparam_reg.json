@@ -1,0 +1,28 @@
+[
+  {
+    "Model": "RF",
+    "Target": "Comments",
+    "Best_Params": {
+      "max_depth": 12,
+      "min_samples_leaf": 1,
+      "n_estimators": 20
+    },
+    "CV_RMSE": 171.62474688529028,
+    "Test_MAE": 104.41550033758246,
+    "Test_RMSE": 149.4763463357238,
+    "Test_R2": 0.9998948145885317
+  },
+  {
+    "Model": "XGB",
+    "Target": "Comments",
+    "Best_Params": {
+      "learning_rate": 0.1,
+      "max_depth": 12,
+      "n_estimators": 20
+    },
+    "CV_RMSE": 1787.553662109375,
+    "Test_MAE": 1558.41552734375,
+    "Test_RMSE": 1815.7590699208968,
+    "Test_R2": 0.9844787120819092
+  }
+]

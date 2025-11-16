@@ -1,0 +1,28 @@
+[
+  {
+    "Model": "RF",
+    "Best_Params": {
+      "max_depth": 12,
+      "min_samples_leaf": 1,
+      "n_estimators": 20
+    },
+    "CV_F1_Score": 0.998679199515934,
+    "Test_Accuracy": 1.0,
+    "Test_Precision": 1.0,
+    "Test_Recall": 1.0,
+    "Test_F1_Score": 1.0
+  },
+  {
+    "Model": "XGB",
+    "Best_Params": {
+      "learning_rate": 0.05,
+      "max_depth": 8,
+      "n_estimators": 20
+    },
+    "CV_F1_Score": 0.9973542087172278,
+    "Test_Accuracy": 0.9957716701902748,
+    "Test_Precision": 0.9957746695948237,
+    "Test_Recall": 0.9957716701902748,
+    "Test_F1_Score": 0.9957670504905552
+  }
+]
