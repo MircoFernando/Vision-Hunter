@@ -1,0 +1,24 @@
+[
+  {
+    "Model": "LogisticRegression",
+    "Train Accuracy": 0.7581923890063424,
+    "Train Precision": 0.7293544825381878,
+    "Train Recall": 0.7581923890063424,
+    "Train F1 Score": 0.7289099315432489,
+    "Test Accuracy": 0.7209302325581395,
+    "Test Precision": 0.6865209368128866,
+    "Test Recall": 0.7209302325581395,
+    "Test F1 Score": 0.69117294839081
+  },
+  {
+    "Model": "DecisionTree",
+    "Train Accuracy": 0.7740486257928119,
+    "Train Precision": 0.7525631879234165,
+    "Train Recall": 0.7740486257928119,
+    "Train F1 Score": 0.7539230761828466,
+    "Test Accuracy": 0.7198731501057083,
+    "Test Precision": 0.690283574176341,
+    "Test Recall": 0.7198731501057083,
+    "Test F1 Score": 0.6969998097761908
+  }
+]
