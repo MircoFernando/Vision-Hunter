@@ -1,6 +1,7 @@
 [
   "Views",
   "Likes",
+  "Comments",
   "Hashtag_Avg_Views",
   "Platform_Avg_Views",
   "Region_Avg_Views",
@@ -23,10 +24,6 @@
   "likes_per_month",
   "shares_per_month",
   "comments_per_month",
-  "Views_Above_Median",
-  "Likes_Above_Median",
-  "Shares_Above_Median",
-  "Comments_Above_Median",
   "Platform_Instagram",
   "Platform_TikTok",
   "Platform_Twitter",
