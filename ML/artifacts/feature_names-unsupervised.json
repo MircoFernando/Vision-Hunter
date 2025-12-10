@@ -3,11 +3,9 @@
   "Likes",
   "Shares",
   "Comments",
-  "platform_anomaly",
   "is_weekend",
   "month",
   "year",
-  "total_interactions",
   "engagement_rate",
   "like_rate",
   "share_rate",
@@ -44,5 +42,5 @@
   "Content_Type_Shorts",
   "Content_Type_Tweet",
   "Content_Type_Video",
-  "Engagement_Level"
+  "Engagement_Level_Cal"
 ]
